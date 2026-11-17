@@ -1,0 +1,6 @@
+{
+  "name": "KuroReach",
+  "description": "AI Lead Scraper, Multi-Mailbox Gmail Outreach Engine & Chrome Extension Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
